@@ -1,0 +1,16 @@
+{
+  "site": "dotnet-api",
+  "publicationRepository": "mandolin/HIA-Documentation-API-DotNetDoc",
+  "repository": "mandolin/HIA-Documentation",
+  "commit": "99af5433bedd14c272ccb1db137d76a3fca02792",
+  "registrySha256": "016dd578508983c2e183d340af87e60992188b2cb4bb819289e3fda8ba290272",
+  "tag": "dotnet-api-99af543",
+  "asset": "dotnet-api-99af543.tar.gz",
+  "gzipSha256": "0414fc2ecb128f33e6be9dfad940b776f821a4f174bd54df1c675f1bb9cedf42",
+  "tarSha256": "f9108e7731aa522cfd983c20d60dfd76367b42ec8afb0800d09503538a5039e2",
+  "tarBytes": 686305280,
+  "reportSha256": "d92d44bda92e1b7b5708b647417dc3ba15b8ecf607ae7f547aac49d4d740dba6",
+  "files": 42084,
+  "bytes": 653872734,
+  "entriesPerLocale": 3687
+}
